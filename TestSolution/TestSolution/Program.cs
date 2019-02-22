@@ -9,6 +9,8 @@ namespace TestSolution
             Console.WriteLine("Hello World!");
             Console.WriteLine("Jacob Was Here");
             Console.WriteLine("Peter Was Here");
+            Console.WriteLine("Stefan Was Here");
+
         }
     }
 }
